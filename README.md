@@ -1,4 +1,4 @@
-﻿## Hyperparameter tuning for Machine Learning - Code Repository
+﻿## Hyperparameter tuning for Machine Learning - Code Repository 
 Udemy Online Course for Hyperparameter Optimization for Machine Learning by Soledad Galli
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-success.svg)
